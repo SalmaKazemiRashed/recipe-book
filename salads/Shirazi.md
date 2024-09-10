@@ -4,14 +4,14 @@ Salad Shirazi
 ## Ingredients
 - Cucumber
 - Tomatoe
-- onion
+- Onion
 - Verjuice (juice of unripe grapes)
-- salt
+- Salt
 
 
 ## Instructions
 - chop cucumber into small pieces
 - chop tomatoes
 - chop onion
-- add salt and Verjuice
+- Add salt and Verjuice
 - Enjoy!
